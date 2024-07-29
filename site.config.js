@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `subin-log`,
-      href: "", #will
+      href: "https://github.com/SuBinMok",
     },
   ],
   // blog setting (required)
